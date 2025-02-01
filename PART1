@@ -1,0 +1,676 @@
+%COVER PAGE-------------------------------------------------------------------
+\begin{titlepage}
+    \centering
+
+    \includegraphics[width=0.4\textwidth]{img/logo pic/FLL X Mindcraft .png} \\[0.5cm] 
+    \includegraphics[width=1\textwidth]{img/profil pics/fll seniors.png} \\[1.5cm] 
+    {\Huge \textbf{\textcolor{orange}{Engineering Notebook}}} \\[0.8cm]
+    {\LARGE \textbf{Mindcraft Seniors}}\\[0.8cm]
+    {\Large \textit{Leadership through play}} \\[0.8cm]
+    {\large \textbf{FIRST LEGO League 2024-2025}} \\
+
+    \vfill 
+\end{titlepage}
+\vfill
+\begin{flushright}
+    \textit{Written by Salma Hamraoui} \\
+    \textit{Created with \LaTeX}
+\end{flushright}
+
+%Table of contents-------------------------------------------------------------------
+\setcounter{page}{1}
+\tableofcontents
+
+\newpage
+%list of figures---------------------------------------------------------------
+\listoffigures
+\nopagebreak
+\noindent\begin{minipage}{\textwidth}
+\listoftables
+\end{minipage}
+\newpage
+
+% MEET THE TEAM-------------------------------------------------------------------
+\section{MEET THE TEAM}
+
+\vspace{1cm}
+
+\begin{minipage}[t]{0.15\textwidth}
+    \centering
+    \includegraphics[width=1.3\linewidth]{img/profil pics/mortada.jpg} 
+    {\scriptsize Mortada Taidi Laamiri} \\ 
+    {\scriptsize Age: 16} \\ 
+    {\scriptsize Team Leader}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.15\textwidth}
+    \centering
+    \includegraphics[width=1.3\linewidth]{img/profil pics/walid.jpg} 
+    {\scriptsize Walid Benslimane} \\ 
+    {\scriptsize Age: 14} \\ 
+    {\scriptsize Technician}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.15\textwidth}
+    \centering
+    \includegraphics[width=1.3\linewidth]{img/profil pics/yaakoubi.jpg}
+    {\scriptsize Salma Yaacoubi} \\ 
+    {\scriptsize Age: 14} \\ 
+    {\scriptsize Programmer}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.15\textwidth}
+    \centering
+    \includegraphics[width=1.3\linewidth]{img/profil pics/omar.jpg} 
+    {\scriptsize Omar   Lharrak}\\ 
+    {\scriptsize Age: 14} \\ 
+    {\scriptsize Technician}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.15\textwidth}
+    \centering
+    \includegraphics[width=1.3\linewidth]{img/profil pics/rayane.jpg} 
+    {\scriptsize Rayan   Ghacha} \\ 
+    {\scriptsize Age: 15} \\ 
+    {\scriptsize Programmer}
+\end{minipage}
+
+\vspace{0.8cm}
+
+\begin{minipage}[t]{0.15\textwidth}
+    \centering
+    \includegraphics[width=1.3\linewidth]{img/profil pics/salma.jpg} 
+    {\scriptsize Salma Hamraoui} \\ 
+    {\scriptsize Age: 16} \\ 
+    {\scriptsize Documentation}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.15\textwidth}
+    \centering
+    \includegraphics[width=1.3\linewidth]{img/profil pics/salman.jpg} 
+    {\scriptsize Salman Derdeb} \\ 
+    {\scriptsize Age: 15} \\ 
+    {\scriptsize Programmer}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.15\textwidth}
+    \centering
+    \includegraphics[width=1.3\linewidth]{img/profil pics/ahmed.jpg} 
+    {\scriptsize Ahmad Nayma} \\ 
+    {\scriptsize Age: 14} \\ 
+    {\scriptsize Researcher}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.15\textwidth}
+    \centering
+    \includegraphics[width=1.3\linewidth]{img/profil pics/mariam.jpg} 
+    {\scriptsize Mariam Hamraoui} \\ 
+    {\scriptsize Age: 16} \\ 
+    {\scriptsize Technician}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.15\textwidth}
+    \centering
+    \includegraphics[width=1.3\linewidth]{img/profil pics/samadi.jpg}
+    {\scriptsize Mohamed Samadi} \\ 
+    {\scriptsize Age: 15} \\ 
+    {\scriptsize Designer}
+\end{minipage}
+
+\vspace{1cm}
+\newpage
+
+
+%Chapitre1--------------------------------------------------------------------------
+
+\chapter{Innovation Project}
+
+\vfill 
+
+\begin{center}
+    \includegraphics[width=0.6\textwidth]{innovation project.png}
+    \\ 
+    
+    \vspace{1cm} 
+
+    \includegraphics[width=0.8\textwidth]{img/Robot Design/improvement/base.png} 
+    \\ 
+\end{center}
+
+\vfill 
+
+%Innovation Project-------------------------------------------------------------------
+\begin{center}
+    \vspace{2cm}
+    \textit{Exploring Ocean Pollution and Its Global Impact}\\[2cm]
+    \includegraphics[width=0.8\linewidth]{img/Robot Design/timeline/innovation project.png} 
+\end{center}
+\newpage
+
+% Problematic Section-------------------------------------------------------------------
+
+% Title
+\begin{center}
+    \huge \textbf{\textcolor{orange}{THE PROBLEMATIC OF OCEAN POLLUTION}} \\[0.5cm]
+    \large \textit{\textcolor{navy}{A closer look at the impacts of plastic debris, marine life, and our global economy.}}
+\end{center}
+
+% Problematic Section
+\section{Problematic Overview}
+\textbf{\textcolor{navy}{Ocean pollution}} is one of the most significant challenges of our time. With \textbf{8–10 million tons of plastic} entering the ocean each year, the consequences for marine ecosystems, biodiversity, and even the global economy are catastrophic. From marine animals choking on plastic to economic losses in fisheries and tourism, the ripple effects are undeniable.
+
+This document will analyze:
+\begin{itemize}
+    \item The amount of debris in the ocean.
+    \item How pollution affects marine life and biodiversity.
+    \item The economic consequences.
+    \item Types of pollution present in oceans.
+    \item Barriers pollution creates for ocean exploration.
+\end{itemize}
+
+% Section 1: Amount of Debris in Oceans
+\subsection{Amount of Debris in Oceans}
+The oceans are inundated with waste, primarily plastic. Research from \textbf{NOAA} and \textbf{UNEP} shows that:
+\begin{itemize}
+    \item \textbf{8 million metric tons of plastic waste} are dumped annually.
+    \item By \textbf{2050}, there could be more plastic than fish in the ocean (by weight).
+\end{itemize}
+
+\begin{figure}[h!]
+    \centering
+    \begin{tikzpicture}
+        \begin{axis}[
+            ybar,
+            symbolic x coords={2010, 2015, 2020, 2025},
+            xtick=data,
+            ylabel={Plastic Debris (Million Tons)},
+            xlabel={Year},
+            ymin=0,
+            ymax=12,
+            bar width=20pt,
+            nodes near coords
+        ]
+            \addplot coordinates {(2010,8) (2015,9) (2020,10) (2025,11)};
+        \end{axis}
+        \node[above,font=\bfseries\color{navy}] at (current bounding box.north) {Annual Plastic Debris Entering the Oceans};
+    \end{tikzpicture}
+    \caption{\textcolor{orange}{Plastic debris entering the oceans each year.}}
+\end{figure}
+\newpage
+
+% Section 2: Effects on Marine Life
+\subsection{Effects on Marine Life}
+Marine animals are particularly vulnerable to plastic pollution:
+\begin{itemize}
+    \item Entanglement: Animals get caught in fishing nets and plastic debris, leading to injuries or death.
+    \item Ingestion: Mistaking plastic for food, animals suffer blockages, malnutrition, and poisoning.
+\end{itemize}
+
+\begin{figure}[h!]
+    \centering
+    \begin{tikzpicture}
+        \begin{axis}[
+            ybar,
+            symbolic x coords={2010, 2015, 2020, 2025},
+            xtick=data,
+            ylabel={Marine Animal Deaths (Thousands)},
+            xlabel={Year},
+            ymin=0,
+            ymax=120,
+            bar width=20pt,
+            nodes near coords
+        ]
+            \addplot coordinates {(2010, 100) (2015, 100) (2020, 100) (2025, 100)};
+        \end{axis}
+        \node[above,font=\bfseries\color{navy}] at (current bounding box.north) {Marine Animal Deaths Due to Plastic Pollution};
+    \end{tikzpicture}
+    \caption{\textcolor{orange}{Deaths of marine animals due to plastic entanglement and ingestion.}}
+\end{figure}
+
+% Section 3: Types of Pollution
+\subsection{Types of Ocean Pollution}
+
+\begin{itemize}
+    \item Fishing Gear (10\%)
+    \item Single-Use Plastics (40\%)
+    \item Microplastics (30\%)
+    \item Other Plastics (20\%)
+\end{itemize}
+
+\begin{figure}[h!]
+    \centering
+    \begin{tikzpicture}
+        \pie[
+            text=legend,
+            radius=3,
+            color={red!30, blue!30, green!30, yellow!30},
+        ]{
+            10/Fishing Gear,
+            40/Single-Use Plastics,
+            30/Microplastics,
+            20/Other Plastics
+        }
+    \end{tikzpicture}
+    \caption{\textcolor{orange}{Breakdown of plastic pollution in the oceans.}}
+\end{figure}
+
+% Section 4: Economic Impact
+\subsection{Economic Impact}
+
+Ocean pollution costs the global economy billions annually. Major areas affected include:
+\begin{itemize}
+    \item Fisheries: Plastic pollution reduces fish stocks, leading to losses for fisheries.
+    \item Tourism: Polluted beaches and waters deter tourists, impacting coastal economies.
+    \item Healthcare: Increased costs due to health problems linked to marine pollution.
+\end{itemize}
+
+
+% Section 5: Barriers to Exploration
+\subsection{Barriers to Exploration}
+
+Ocean pollution hampers marine exploration. Specialists cannot access key areas due to:
+\begin{itemize}
+    \item Pollution Hazards: Risks to equipment and divers.
+    \item Reduced Visibility: Pollution clouds water, limiting exploration.
+\end{itemize}
+
+\begin{figure}[h!]
+    \begin{minipage}{0.6\textwidth}
+        Pollution impacts ocean discovery efforts, preventing us from uncovering critical information about marine ecosystems.
+    \end{minipage}
+    \hfill
+    \begin{minipage}{0.35\textwidth}
+        \includegraphics[width=\textwidth]{img/innovation project pic/ocean explorer.png} % Replace with your image
+    \end{minipage}
+\end{figure}
+
+
+% Conclusion
+\subsection{Conclusion}
+Ocean pollution is a multifaceted problem with far-reaching consequences for biodiversity, economies, and the future of marine exploration. Immediate action is required to reduce waste and protect our oceans.
+
+\newpage
+
+% Title
+\begin{center}
+    \huge \textbf{\textcolor{orange}{RESEARCH START}} \\[0.5cm]
+\end{center}
+\section{Research Start}
+
+We based our research on credible sources focused on technological advancements and environmental solutions. Each source inspired our project and shaped the vision for our ocean-cleaning robot.
+
+
+\begin{figure}[H]
+    \centering
+    \begin{tabular}{m{0.2\textwidth} m{0.75\textwidth}}
+        \includegraphics[width=\linewidth]{img/logo pic/reaserch start/national geographic.PNG} & 
+        \textit{\color{navy}National Geographic} provided articles on how technology tackles marine pollution. Their insights guided us in understanding the global challenges of debris in oceans and the role of innovation in resolving them.
+    \end{tabular}
+\end{figure}
+
+\vspace{1cm} % Add space between sections
+
+
+\begin{figure}[H]
+    \centering
+    \begin{tabular}{m{0.2\textwidth} m{0.75\textwidth}}
+        \includegraphics[width=\linewidth]{img/logo pic/reaserch start/robohub.PNG} & 
+        \textit{\color{navy}Robohub} inspired our design with its coverage of cutting-edge robotics for environmental sustainability. It provided examples of autonomous robots used to clean polluted lakes and oceans.
+    \end{tabular}
+\end{figure}
+
+\vspace{1cm}
+
+
+\begin{figure}[H]
+    \centering
+    \begin{tabular}{m{0.2\textwidth} m{0.75\textwidth}}
+        \includegraphics[width=\linewidth]{img/logo pic/reaserch start/ieee xplore.PNG} & 
+        \textit{\color{navy}IEEE Xplore} provided detailed technical articles on aquatic robotics, helping us refine the mechanical and functional requirements for our robot.
+    \end{tabular}
+\end{figure}
+
+\vspace{1cm}
+
+
+\begin{figure}[H]
+    \centering
+    \begin{tabular}{m{0.2\textwidth} m{0.75\textwidth}}
+        \includegraphics[width=\linewidth]{img/logo pic/reaserch start/MIT robotics lab.PNG} & 
+        \textit{\color{navy}MIT Robotics Lab} showcased advanced research in aquatic robotics for environmental use. Their innovative projects inspired the core concepts of our robot.
+    \end{tabular}
+\end{figure}
+
+\vspace{1cm}
+
+
+\begin{figure}[H]
+ 
+    \begin{tabular}{m{0.2\textwidth} m{0.75\textwidth}}
+        \includegraphics[width=\linewidth]{img/logo pic/reaserch start/wef.PNG} &
+        \textit{\color{navy}World Economic Forum} highlighted the potential of small, smart robots to clean oceans and reduce pollution. 
+    \end{tabular}
+\end{figure}
+
+\vspace{0.5cm}
+
+\section{Conclusion}
+
+By combining insights from these credible sources, we developed a clear strategy for creating a robot capable of cleaning ocean debris and contributing to environmental sustainability.
+\newpage
+
+ % Title
+\begin{center}
+    \huge \textbf{\textcolor{orange}{TIMELINE}} \\[0.5cm]
+\end{center}
+\section{Timeline}
+\subsection{First Qualifying Phase}
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=1\textwidth]{img/innovation project pic/TIMELINE/Q1 timeline.PNG}  % Replace with your image path
+    \caption{Project Timeline}
+    \label{fig: timeline Q1}
+\end{figure}
+
+The preparation for The First Qualifying Phase that was due on January 18th consisted of our initial steps, which included problem identification, brainstorming, and early development of the project. 
+Below is a breakdown of the tasks we completed week by week:
+
+\begin{enumerate}[1.]
+    \item \textbf{Week 1: Initial Research and Setup}
+    \begin{itemize}
+        \item Identify the problem and define the scope of the project.
+        \item Choose the specific problematic area related to ocean pollution.
+        \item Brainstorm solutions to address the issue and select the most viable approach.
+        \item Create a GitHub repository to store and manage the project code and documents.
+        \item Conduct research to understand the underlying causes of the problem and gather necessary resources.
+    \end{itemize}
+
+\item \textbf{Week 2: Research and Development}
+    \begin{itemize}
+        \item Continue research on the chosen solution and refine the project scope.
+        \item Create a flowchart to outline the project’s workflow and key components.
+        \item Begin designing and developing website elements, such as the footer and homepage.
+        \item Design and implement flashcards to assist with project explanation and user interaction.
+    \end{itemize}
+    
+    \item \textbf{Week 3: Prototype Design and Initial Testing}
+    \begin{itemize}
+        \item Begin work on the 3D model for the prototype.
+        \item Start 3D printing the prototype components.
+    \end{itemize}
+
+    \item \textbf{Week 4: Prototype Printing and Testing}
+    \begin{itemize}
+        \item Continue printing the remaining prototype parts.
+        \item Begin testing the prototype components in parallel with the printing process.
+    \end{itemize}
+
+    \item \textbf{Week 5: Testing and Iteration}
+    \begin{itemize}
+        \item Focus on testing the full prototype and gathering feedback.
+        \item Continuously improve the design based on testing results.
+        \item Identify any weaknesses in the prototype and iterate on the design to address them.
+    \end{itemize}
+\end{enumerate}
+
+\subsection{Second Qualifying Phase}
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.6\textwidth]{img/innovation project pic/TIMELINE/Q2 timeline.PNG}  % Replace with your image path
+    \caption{Timeline Q2}
+    \label{fig:timeline}
+\end{figure}
+
+In the Second Qualifying Phase, we continued improving the prototype and conducted further testing. This phase also included consulting with an expert to gain feedback and refine the design based on their advice.
+
+\begin{enumerate}[1.]
+    \item \textbf{Week 6: Prototype Improvement and Testing}
+    \begin{itemize}
+        \item Begin improving the prototype based on testing results from the previous phase.
+        \item Continue testing the prototype to identify any issues or areas for enhancement.
+    \end{itemize}
+    
+    \item \textbf{Week 7: Expert Consultation and Final Adjustments}
+    \begin{itemize}
+        \item Meet with an expert Naoufal Alouardi in the field to review the prototype and receive feedback.
+        \item Implement the expert's advice to improve the prototype’s functionality and design.
+        \item Continue testing the prototype in parallel with these adjustments to ensure its performance.
+    \end{itemize}
+\end{enumerate}
+
+\newpage
+\begin{center}
+    \huge \textbf{\textcolor{orange}{TASK MANAGEMENT }} \\[0.5cm]
+ 
+\end{center}
+\section{Tasks}
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=1\textwidth]{img/innovation project pic/TASKS/task management.png}  
+    \caption{Tasks }
+\end{figure}
+
+In this section, we describe how we divided tasks and organized them using a Google Sheet. We created a detailed table with several criteria to ensure that tasks were assigned efficiently, tracked appropriately, and met deadlines. 
+
+\subsection{Task Assignment Criteria}
+
+\begin{enumerate}
+    \item \textbf{Task}:
+
+\begin{figure}[H]
+   
+    \begin{tabular}{m{0.2\textwidth} m{0.75\textwidth}}
+        \includegraphics[width=\linewidth]{img/innovation project pic/TASKS/TASKS.png} & 
+        \textit This column in the Google Sheet lists the name or description of each task that needs to be completed throughout the project. Tasks were broken down into smaller, manageable items to ensure clear focus and allocation of work.
+    \end{tabular}
+\end{figure}
+ 
+    \item \textbf{Responsability}:
+\begin{figure}[H]
+ 
+    \begin{tabular}{m{0.2\textwidth} m{0.75\textwidth}}
+        \includegraphics[width=\linewidth]{img/innovation project pic/TASKS/responsible.png} & 
+        \textit The person responsible for each task was clearly marked in the sheet. This allowed us to ensure accountability and made it easy to track who was working on what.
+    \end{tabular}
+\end{figure}
+
+\newpage
+
+    \item \textbf{Importance}:
+\begin{figure}[H]
+    
+    \begin{tabular}{m{0.2\textwidth} m{0.75\textwidth}}
+        \includegraphics[width=\linewidth]{img/innovation project pic/TASKS/importance.png} & 
+        \textit In this column, we identified whether each task was "Important" or "Less Important". Tasks marked as "Important" were prioritized and handled first. This helped to focus on tasks critical for the project’s progress.
+    \end{tabular}
+\end{figure}
+
+    \item \textbf{Online or at Mindcraft}:
+\begin{figure}[H]
+   
+    \begin{tabular}{m{0.2\textwidth} m{0.75\textwidth}}
+        \includegraphics[width=0.8\linewidth]{img/innovation project pic/TASKS/task online or sur site.png} & 
+        \textit This column indicated whether the task would be completed online or in the club (Mindcraft). For instance, some tasks required in-person collaboration or materials, while others could be done remotely.
+    \end{tabular}
+\end{figure}
+\newpage
+
+    \item \textbf{Status}:
+\begin{figure}[H]
+   
+    \begin{tabular}{m{0.2\textwidth} m{0.75\textwidth}}
+        \includegraphics[width=0.8\linewidth]{img/innovation project pic/TASKS/status.png} & 
+        \textit The status category helps track the progress of each task. It includes labels like "Not Started," "In Progress," and "Done." This makes it easy to see which tasks are completed, which ones are ongoing, and which are yet to begin. Updating the status regularly ensures clarity and keeps everyone aligned
+    \end{tabular}
+\end{figure}
+
+    \item \textbf{Deadline}:
+\begin{figure}[H]
+   
+    \begin{tabular}{m{0.2\textwidth} m{0.8\textwidth}}
+        \includegraphics[width=0.8\linewidth]{img/innovation project pic/TASKS/deadline.png} & 
+        \textit The deadline category organizes tasks by their due dates, helping prioritize work efficiently. Tasks with closer deadlines are tackled first, ensuring timely completion and reducing last-minute pressure. This system helps manage time effectively and keeps projects on schedule.
+    \end{tabular}
+\end{figure}
+
+\end{enumerate}
+
+\newpage
+\begin{center}
+    \huge \textbf{\textcolor{orange}{SOLUTION }} \\[0.5cm]
+ 
+\end{center}
+\section{Solution}
+
+\subsection{Development of the HydroBot Solution}
+After researching ocean pollution, we developed HydroBot, an autonomous robot designed to efficiently collect waste. With advanced sensors, AI, and eco-friendly materials, it navigates water bodies to identify and remove pollutants, offering a sustainable solution to reduce ocean pollution.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.4\textwidth]{img/logo pic/hydrobot logo.png} 
+\caption{HydroBot}
+\end{figure}
+
+
+\subsection{ {Inspiration}}
+Our project was inspired by the ocean cleanup efforts led by MrBeast and Mark Robert, whose initiative raised awareness about ocean pollution and engaged millions in large-scale cleanup events.
+
+
+
+
+
+\subsubsection{{What is Team Seas?}}
+\begin{figure}[h!]
+    \begin{minipage}{0.6\textwidth}
+       MrBeast’s ocean cleanup project, "Team Seas," focused on raising funds and mobilizing volunteers to remove plastic waste from the ocean. Key points include:
+    \end{minipage}
+    \hfill
+    \begin{minipage}{0.35\textwidth}
+        \includegraphics[width=0.6\textwidth]{img/innovation project pic/mrbeast.png} 
+    \end{minipage}
+\end{figure}
+
+
+
+\subsubsection{{Key Differences Between HydroBot and Team Seas}}
+
+\begin{figure}[h!]
+    \begin{minipage}{0.6\textwidth}
+        \begin{itemize}
+            \item \textbf{\textcolor{blue}{Autonomous}}: HydroBot works without humans, unlike Team Seas.
+            \item \textbf{\textcolor{blue}{Open Source}}: HydroBot’s design is globally accessible.
+            \item \textbf{\textcolor{blue}{Sustainable}}: HydroBot provides a long-term solution, while Team Seas focuses on one-time events.
+            \item \textbf{\textcolor{blue}{Tech-driven}}: HydroBot uses AI and sensors; Team Seas relies on volunteers.
+            \item \textbf{\textcolor{blue}{Scalable}}: HydroBot can work in multiples; Team Seas is event-based.
+            \item \textbf{\textcolor{blue}{Eco-friendly}}: HydroBot uses sustainable materials.
+            \item \textbf{\textcolor{blue}{Global}}: HydroBot can be deployed worldwide.
+            \item \textbf{\textcolor{blue}{Continuous}}: HydroBot operates 24/7, unlike Team Seas’ limited timeframe.
+        \end{itemize}
+    \end{minipage}
+    \hfill
+    \begin{minipage}{0.35\textwidth}
+        \includegraphics[width=\textwidth]{img/innovation project pic/team sea.PNG}
+        \includegraphics[width=\textwidth]{img/innovation project pic/HYDROBOT/HydroBot.PNG}
+    \end{minipage}
+\end{figure}
+
+
+\subsubsection{{Benefits of HydroBot}}
+
+The HydroBot project brings several significant benefits across different domains:
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.5\textwidth]{img/innovation project pic/benefits.PNG}
+\end{figure}
+
+\begin{itemize}
+    \item \textbf{\textcolor{green}{Sustainability}}: HydroBot offers a long-term solution to ocean pollution, ensuring continuous, efficient waste collection that reduces the burden on ecosystems.
+    \item \textbf{\textcolor{red}{Human Health}}: By removing harmful pollutants, HydroBot helps reduce waterborne diseases and promotes cleaner, safer environments for local communities.
+    \item \textbf{\textcolor{blue}{Economic Impact}}: The deployment of HydroBot could create new industries around eco-robotics, waste management, and environmental technology, stimulating job growth and economic opportunities.
+    \item \textbf{\textcolor{orange}{Environmental Preservation}}: HydroBot plays a crucial role in preserving marine ecosystems by reducing plastic waste, safeguarding biodiversity, and preventing further environmental degradation.
+\end{itemize}
+
+
+
+
+\newpage
+\begin{center}
+    \huge \textbf{\textcolor{orange}{DESIGN OF HYDROBOT}} \\[0.5cm]
+\end{center}
+\section{\textbf{Design of HydroBot}}
+\subsubsection{{Design Process in OnShape}}
+To bring HydroBot to life, we started by designing the robot’s components in **OnShape**, a cloud-based 3D CAD (Computer-Aided Design) software. This tool allowed our team to collaborate in real-time, ensuring efficiency and precision in our designs.
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.6\textwidth]{img/innovation project pic/DESIGN/onshape.png}
+\end{figure}
+
+\subsubsection{{3D Printing with Creality}}
+
+After finalizing the designs in OnShape, we moved on to the physical creation of HydroBot’s components using **Creality 3D Printers**. 3D printing was chosen due to its precision, cost-effectiveness, and the flexibility it offers in prototyping. Here’s how we used the technology:
+
+\begin{itemize}
+    \item \textbf{Printer Model}: We used the **Creality Ender 3** printer, known for its high accuracy and reliable performance.
+    \item \textbf{Material Choice}: We used **PLA (Polylactic Acid)**, an eco-friendly filament, ensuring that the robot’s components are both durable and sustainable.
+    \item \textbf{Layer by layer Printing}: The robot parts were printed layer by layer, allowing us to maintain high resolution and minimize waste during production.
+    \item \textbf{Post-Processing}: After printing, the components were smoothed and assembled with precision to ensure the parts fit together perfectly.
+\end{itemize}
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.7\textwidth]{img/innovation project pic/DESIGN/3d design processs.png}
+\end{figure}
+
+
+\newpage
+\begin{center}
+    \huge \textbf{\textcolor{orange}{LIST OF TOOLS}} \\[0.5cm]
+\end{center}
+\section{\textbf{list of tools}}
+
+
+\begin{table}[h]
+    \centering
+    \renewcommand{\arraystretch}{1.5}
+    \setlength{\arrayrulewidth}{1pt}
+    \setlength{\tabcolsep}{8pt}
+
+    % Define the orange color
+    \definecolor{myorange}{RGB}{255, 165, 0}
+
+    \begin{tabular}{|m{3cm}|m{3cm}|m{3cm}|m{3cm}|}
+        \hline
+        \rowcolor{myorange} \textbf{Image} & \textbf{Name} & \textbf{Quantity} & \textbf{Price} \\ 
+        \hline
+        \includegraphics[width=2cm]{img/innovation project pic/list of tools hydrobot/PLA.png} & \textbf{Filament PLA+} & 4 & 1 000 DH \\
+        \hline
+        \includegraphics[width=2cm]{img/innovation project pic/list of tools hydrobot/rasberrypi.png} & \textbf{Raspberry Pi} & 1 & 700 DH \\
+        \hline
+        \includegraphics[width=2cm]{img/innovation project pic/list of tools hydrobot/webcam .png} & \textbf{Webcam Logitech C270} & 1 & 300 DH \\
+        \hline
+        \includegraphics[width=2cm]{img/innovation project pic/list of tools hydrobot/DC motor.png} & \textbf{Brushless DC Motor} & 2 & 400 DH \\
+        \hline
+        \includegraphics[width=2cm]{img/innovation project pic/list of tools hydrobot/lipo batterie.png} & \textbf{Lipo Batterie 3s 2200mah} & 3 & 600 DH \\
+        \hline
+        \includegraphics[width=2cm]{img/innovation project pic/list of tools hydrobot/Battery voltage.png} & \textbf{Battery Voltage Indicator} & 1 & 30 DH \\
+        \hline
+        \includegraphics[width=2cm]{img/innovation project pic/list of tools hydrobot/Electrical Speed Control.png} & \textbf{Electrical Speed Control} & 2 & 60 DH \\
+        \hline
+        \includegraphics[width=2cm]{img/innovation project pic/list of tools hydrobot/solar pannel.png} & \textbf{Small Solar Panel} & 1 & 120 DH \\
+        \hline
+        \includegraphics[width=2cm]{img/innovation project pic/list of tools hydrobot/net.png} & \textbf{Net} & 1 & 150 DH \\
+        \hline
+        \multicolumn{2}{|c|}{\textbf{Others}} & - & 340 DH \\
+        \hline
+        
+    \end{tabular}
+  
+
+\end{table}
+
+\textbf{TOTAL:}
+3 700 DH
+\subsection{Affordability and Accessibility}
+
+Our project is affordable and accessible, with budget-friendly components available from local stores and online marketplaces, making it easy for anyone to replicate without high costs or supply issues.
